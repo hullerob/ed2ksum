@@ -1,0 +1,40 @@
+ed2ksum
+=======
+
+Small utility to compute ed2k links for files.
+
+Dependencies
+------------
+openssl
+
+Build
+-----
+	cd src
+	make
+
+Install
+-------
+	cp ed2ksum /usr/bin/
+
+Uninstall
+---------
+	rm /usr/bin/ed2ksum
+
+Usage
+-----
+
+hash file
+
+	ed2ksum FILE ...
+
+print help
+
+	ed2ksum -h
+
+print version and exit
+
+	ed2ksum -V
+
+print only hash, not ed2k link
+
+	ed2ksum -r FILE ...
