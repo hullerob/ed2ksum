@@ -20,7 +20,7 @@
 #include <stdlib.h>
 #include <openssl/md4.h>
 
-const char VERSION[] = "1";
+const char VERSION[] = "2";
 
 #define CHUNK_SIZE (9500*1024)
 #define BUFF_SIZE (8*1024)
