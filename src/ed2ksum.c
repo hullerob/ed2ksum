@@ -1,6 +1,5 @@
 /*
  * ed2ksum - compute ed2k links for files
- * this is version 1
  *
  * (c) Robert Hulle, 2012
  *
