@@ -1,10 +1,4 @@
-/*
- * ed2ksum - compute ed2k links for files
- *
- * (c) Robert Hulle, 2012
- *
- * No warranty. WTFPL v2.
- */
+/* See LICENSE file for copyright and license details. */
 
 #define _GNU_SOURCE
 #define _FILE_OFFSET_BITS 64
