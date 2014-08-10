@@ -144,6 +144,7 @@ int main (int argc, char **argv)
         printf("|\n");
       else
         printf("\n");
+      fflush(stdout);
     }
     if (fd > 0)
       close(fd);
